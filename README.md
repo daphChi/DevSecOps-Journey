@@ -16,15 +16,17 @@ This repository serves as my hands-on logbook as I develop skills in Linux, Git,
 ## 🗺️ Roadmap
 This roadmap is adapted from real DevSecOps skill paths:
 
-1. **Linux & Git Fundamentals** (/Linux)
+1. **Linux & Git Fundamentals** [ ] [Linux basics](/linux)
    - Master SSH, file permissions, systemctl, bash scripting
    - Deep dive into Git (rebase, merge conflicts, branching)
 
 2. **Cloud Specialization (AWS)**
+[ ] [Cloud specialization](/cloud)
    - IAM, EC2, S3, VPC basics
    - Deploy workloads on AWS
 
-3. **Infrastructure as Code** (/terraform)
+3. **Infrastructure as Code** 
+[ ] [Infrastructure as Code (Terraform)](/terraform) 
    - Terraform basics → modules → deploy infra on AWS
 
 4. **Containers & Kubernetes**
@@ -36,6 +38,7 @@ This roadmap is adapted from real DevSecOps skill paths:
    - Add security scans in pipelines
 
 6. **Security Practices**
+[ ] [Security practices](/security)
    - Container scanning (Trivy, Anchore)
    - Secrets management (Vault, AWS Secrets Manager)
    - IAM least privilege
@@ -47,7 +50,7 @@ This roadmap is adapted from real DevSecOps skill paths:
 8. **Automation & Chaos Engineering**
    - Automate workflows with scripts
    - Break things safely to learn resilience
-
+[ ] [Projects & Portfolio](/projects) 
 ## 📚 Tracking Progress
 - Weekly commits showing hands-on progress
 - Notes and diagrams in `/notes/`
