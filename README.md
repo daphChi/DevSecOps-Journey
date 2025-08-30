@@ -3,7 +3,7 @@ My hands-on learning journey into DevSecOps: Linux, Git, Cloud, IaC, CI/CD, Kube
 # 🚀 DevSecOps Journey
 
 Welcome to my DevSecOps learning journey!  
-This repository is my hands-on logbook as I build skills across Linux, Git, Cloud, Infrastructure as Code, Kubernetes, CI/CD, and Security.
+This repository serves as my hands-on logbook as I develop skills in Linux, Git, Cloud, Infrastructure as Code, Kubernetes, CI/CD, and Security.
 
 ## 🎯 Goals
 - Build a solid foundation in **Linux, Git, and Cloud (AWS)**.
@@ -16,7 +16,7 @@ This repository is my hands-on logbook as I build skills across Linux, Git, Clou
 ## 🗺️ Roadmap
 This roadmap is adapted from real DevSecOps skill paths:
 
-1. **Linux & Git Fundamentals**
+1. **Linux & Git Fundamentals** (/Linux)
    - Master SSH, file permissions, systemctl, bash scripting
    - Deep dive into Git (rebase, merge conflicts, branching)
 
@@ -24,14 +24,14 @@ This roadmap is adapted from real DevSecOps skill paths:
    - IAM, EC2, S3, VPC basics
    - Deploy workloads on AWS
 
-3. **Infrastructure as Code**
+3. **Infrastructure as Code** (/terraform)
    - Terraform basics → modules → deploy infra on AWS
 
 4. **Containers & Kubernetes**
    - Dockerize an app
    - Deploy to Kubernetes (minikube, then AWS EKS)
 
-5. **CI/CD Pipelines**
+5. **CI/CD Pipelines**  (/git)
    - GitHub Actions (build, test, deploy)
    - Add security scans in pipelines
 
